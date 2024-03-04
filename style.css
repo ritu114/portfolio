@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    background-image: url(/netflix/portfolio11/image/back.jpg);
+    background-size:cover ;
+}
+.text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    position: absolute;
+    top: 22%;
+    left: 35%;
+    font-size:xx-large;
+    font-style: italic;
+    display: block;
+    
+}
+.imga{
+    display: block;
+    margin: 0;
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    
+
+}
+.but{
+    position: absolute;
+    top: 78%;
+    left: 48%;
+    background-color:black;
+    color: bisque;
+    border: none;
+    border-radius: 10px;
+    box-shadow:0px 0px 2px 2px rgb(0,0,0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.but:hover{
+    transition: 0.7s;
+    background-color:chocolate;
+   
+}
+
